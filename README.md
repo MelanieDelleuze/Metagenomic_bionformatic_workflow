@@ -3,9 +3,11 @@
 This repository contains the metagenomic bioinformatics workflow used in the study:
 
 **Delleuze et al. (2026)**  
-*How to avoid competitive exclusion: a possible role of gut microbiota in niche differentiation between coexisting species*. (under revision)
+*How to avoid competitive exclusion: a possible role of gut microbiota in niche differentiation between coexisting species*. (under review)
 
 The workflow was developed with reproducibility and accessibility in mind. Detailed explanations, commands, and annotations are provided throughout the pipeline to facilitate its use by researchers with limited experience in bioinformatics, particularly those learning metagenomic data analysis.
+
+As a self-learning researcher during the development of this project, I aimed to document each step as clearly as possible so that others facing similar challenges can more easily understand and reproduce the analyses.
 
 ## Documentation
 
@@ -15,7 +17,7 @@ https://pipeline-metag-mdelleuze.notion.site/Metagenomic-Bioinformatics-Workflow
 
 ## Dataset
 
-The dataset includes:
+The dataset includes metagenomes of:
 
 - *Abatus agassizii* gut microbiota (n = 5)
 - *Schizocosmus abatoïdes* gut microbiota (n = 5)
@@ -31,6 +33,9 @@ This section will be updated with the DOI and citation once the article is publi
 
 This workflow was developed during the analysis of Antarctic benthic microbiome data and benefited from resources and guidance provided through Sergio Guajardo-Leiva's metagenomics workshop.
 
+All analyses were performed using computational resources provided by the National Laboratory for High Performance Computing (NLHPC), Chile (CCSS210001). Their infrastructure and support were essential for the completion of this work.
+
 ## Contact
 
-Melanie Delleuze melanie.delleuze@gmail.com
+Melanie Delleuze
+melanie.delleuze@gmail.com
